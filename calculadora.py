@@ -7,4 +7,4 @@ elif select == 3:
                     multiply(number_1, number_2))
 
 else:
-    print("Invalid input")
+    print("Entrada Invalida")
